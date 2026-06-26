@@ -1,2 +1,2 @@
-# New_OOPS_Concept
-This repo will cover OOPS concept
+# Python and OOPS Concept
+This repo will cover OOPS concept and Python basics
